@@ -1,0 +1,1373 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D19BE8328E0BA9A00E6E4B5 /* 1-FalseMemoryOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8228E0BA9A00E6E4B5 /* 1-FalseMemoryOcdRecovery.pdf */; };
+		3D19BE8528E0BAB900E6E4B5 /* 2-HowToGetOverOcd.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8428E0BAB800E6E4B5 /* 2-HowToGetOverOcd.pdf */; };
+		3D19BE8728E0BAE300E6E4B5 /* 3-ReligiousOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8628E0BAE200E6E4B5 /* 3-ReligiousOcdRecovery.pdf */; };
+		3D19BE8928E0BB0800E6E4B5 /* 4-OcdRecoveryUsingMindfulness.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8828E0BB0800E6E4B5 /* 4-OcdRecoveryUsingMindfulness.pdf */; };
+		3D19BE8B28E0BB2D00E6E4B5 /* 5-CheatingOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8A28E0BB2D00E6E4B5 /* 5-CheatingOcdRecovery.pdf */; };
+		3D19BE8D28E0BB4500E6E4B5 /* 6-FaqAboutOcd.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8C28E0BB4500E6E4B5 /* 6-FaqAboutOcd.pdf */; };
+		3D19BE8F28E0BB7000E6E4B5 /* 7-HelpYourChildGetOverOcd.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE8E28E0BB7000E6E4B5 /* 7-HelpYourChildGetOverOcd.pdf */; };
+		3D19BE9128E0BB9F00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9028E0BB9F00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery.pdf */; };
+		3D19BE9328E0BBB900E6E4B5 /* 9-ErpForOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9228E0BBB900E6E4B5 /* 9-ErpForOcdRecovery.pdf */; };
+		3D19BE9528E0BBD600E6E4B5 /* 10-HarmOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9428E0BBD600E6E4B5 /* 10-HarmOcdRecovery.pdf */; };
+		3D19BE9728E0BBF900E6E4B5 /* 11-GettingOverOcd.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9628E0BBF900E6E4B5 /* 11-GettingOverOcd.pdf */; };
+		3D19BE9928E0BC1F00E6E4B5 /* 12-OcdSelfHelpWorkbook.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9828E0BC1F00E6E4B5 /* 12-OcdSelfHelpWorkbook.pdf */; };
+		3D19BE9B28E0BC3E00E6E4B5 /* 13-OcdRecoveryUsingCbt.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9A28E0BC3E00E6E4B5 /* 13-OcdRecoveryUsingCbt.pdf */; };
+		3D19BE9D28E0BC6100E6E4B5 /* 14-RelationshipOcdRecoverySolution.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9C28E0BC6100E6E4B5 /* 14-RelationshipOcdRecoverySolution.pdf */; };
+		3D19BE9F28E0BCC900E6E4B5 /* 15-OvercomingOcdCompulsions.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BE9E28E0BCC900E6E4B5 /* 15-OvercomingOcdCompulsions.pdf */; };
+		3D19BEA128E0BCDF00E6E4B5 /* 16-PureOOcdRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEA028E0BCDF00E6E4B5 /* 16-PureOOcdRecovery.pdf */; };
+		3D19BEA328E0BD0A00E6E4B5 /* 1-FalseMemoryOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEA228E0BD0A00E6E4B5 /* 1-FalseMemoryOcdRecovery@iPad.pdf */; };
+		3D19BEA528E0BD3800E6E4B5 /* 2-HowToGetOverOcd@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEA428E0BD3800E6E4B5 /* 2-HowToGetOverOcd@iPad.pdf */; };
+		3D19BEA728E0BD9900E6E4B5 /* 3-ReligiousOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEA628E0BD9900E6E4B5 /* 3-ReligiousOcdRecovery@iPad.pdf */; };
+		3D19BEA928E0BDAF00E6E4B5 /* 4-OcdRecoveryUsingMindfulness@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEA828E0BDAF00E6E4B5 /* 4-OcdRecoveryUsingMindfulness@iPad.pdf */; };
+		3D19BEAB28E0BDC300E6E4B5 /* 5-CheatingOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEAA28E0BDC300E6E4B5 /* 5-CheatingOcdRecovery@iPad.pdf */; };
+		3D19BEAD28E0BDD500E6E4B5 /* 6-FaqAboutOcd@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEAC28E0BDD500E6E4B5 /* 6-FaqAboutOcd@iPad.pdf */; };
+		3D19BEAF28E0BDE900E6E4B5 /* 7-HelpYourChildGetOverOcd@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEAE28E0BDE900E6E4B5 /* 7-HelpYourChildGetOverOcd@iPad.pdf */; };
+		3D19BEB128E0BDFD00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEB028E0BDFD00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery@iPad.pdf */; };
+		3D19BEB328E0BE2300E6E4B5 /* 9-ErpForOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEB228E0BE2200E6E4B5 /* 9-ErpForOcdRecovery@iPad.pdf */; };
+		3D19BEB528E0BE3600E6E4B5 /* 10-HarmOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEB428E0BE3600E6E4B5 /* 10-HarmOcdRecovery@iPad.pdf */; };
+		3D19BEB728E0BE4D00E6E4B5 /* 11-GettingOverOcd@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEB628E0BE4D00E6E4B5 /* 11-GettingOverOcd@iPad.pdf */; };
+		3D19BEB928E0BE7200E6E4B5 /* 12-OcdSelfHelpWorkbook@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEB828E0BE7200E6E4B5 /* 12-OcdSelfHelpWorkbook@iPad.pdf */; };
+		3D19BEBB28E0BE8600E6E4B5 /* 13-OcdRecoveryUsingCbt@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEBA28E0BE8600E6E4B5 /* 13-OcdRecoveryUsingCbt@iPad.pdf */; };
+		3D19BEBD28E0BEA700E6E4B5 /* 14-RelationshipOcdRecoverySolution@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEBC28E0BEA700E6E4B5 /* 14-RelationshipOcdRecoverySolution@iPad.pdf */; };
+		3D19BEBF28E0BED000E6E4B5 /* 16-PureOOcdRecovery@iPad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3D19BEBE28E0BED000E6E4B5 /* 16-PureOOcdRecovery@iPad.pdf */; };
+		3D2EA56428E27036005860C7 /* SettingsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2EA56328E27036005860C7 /* SettingsManager.m */; };
+		3D330D0328E12FE1000E7494 /* AgreeTermVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D330D0228E12FE1000E7494 /* AgreeTermVC.m */; };
+		3D330D0628E133A3000E7494 /* InstructionsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D330D0528E133A3000E7494 /* InstructionsVC.m */; };
+		3D525DD628F5A90500A9BE59 /* InstagramShare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D525DD528F5A90500A9BE59 /* InstagramShare.swift */; };
+		3D680DCA28F5E7AF0052686C /* DatabaseMigrator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D680DC928F5E7AF0052686C /* DatabaseMigrator.m */; };
+		3D689B5628FC79B000B6DF18 /* DailyExercisesVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D689B5528FC79B000B6DF18 /* DailyExercisesVC.m */; };
+		3D689B5C28FCC2D500B6DF18 /* ExerciseTextInputCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D689B5B28FCC2D500B6DF18 /* ExerciseTextInputCell.m */; };
+		3D689B5F28FCC2E800B6DF18 /* ExerciseButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D689B5E28FCC2E800B6DF18 /* ExerciseButtonCell.m */; };
+		3D6F642728F8F4C100F02DBA /* 1-CheatingOcdRecovery.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F642628F8F4C100F02DBA /* 1-CheatingOcdRecovery.mp3 */; };
+		3D6F642928F8F4ED00F02DBA /* 2-FalseMemoryOcdRecovery.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F642828F8F4ED00F02DBA /* 2-FalseMemoryOcdRecovery.mp3 */; };
+		3D6F642B28F8F5B100F02DBA /* 3-FastOcdRecovery.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F642A28F8F5B100F02DBA /* 3-FastOcdRecovery.mp3 */; };
+		3D6F642D28F8F5E400F02DBA /* 4-HowToGetOverOcd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F642C28F8F5E400F02DBA /* 4-HowToGetOverOcd.mp3 */; };
+		3D6F642F28F8F67000F02DBA /* 5-HelpYourChildGetOverOcd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F642E28F8F67000F02DBA /* 5-HelpYourChildGetOverOcd.mp3 */; };
+		3D6F643128F8F69500F02DBA /* 6-NutritionLifeStyleAndOcdRecovery.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F643028F8F69500F02DBA /* 6-NutritionLifeStyleAndOcdRecovery.mp3 */; };
+		3D6F643328F8F6B600F02DBA /* 7-PureOOcdRecovery.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F643228F8F6B600F02DBA /* 7-PureOOcdRecovery.mp3 */; };
+		3D6F643528F8F6DE00F02DBA /* 8-RelationshipOcdRecoverySolution.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6F643428F8F6DE00F02DBA /* 8-RelationshipOcdRecoverySolution.mp3 */; };
+		3D79253428E566F00050A343 /* TrackerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D79253328E566F00050A343 /* TrackerVC.m */; };
+		3D8A7B2C28F499760073A148 /* YearVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8A7B2B28F499760073A148 /* YearVC.m */; };
+		3D97E34128E1183A00591BB8 /* BookVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E34028E1183A00591BB8 /* BookVC.m */; };
+		3D97E34428E11C2A00591BB8 /* OpenSSL in Frameworks */ = {isa = PBXBuildFile; productRef = 3D97E34328E11C2A00591BB8 /* OpenSSL */; };
+		3D97E35628E11C4700591BB8 /* AppleIncRootCertificate.cer in Resources */ = {isa = PBXBuildFile; fileRef = 3D97E34B28E11C4700591BB8 /* AppleIncRootCertificate.cer */; };
+		3D97E35828E11C4700591BB8 /* RMStoreTransaction.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E34D28E11C4700591BB8 /* RMStoreTransaction.m */; };
+		3D97E35928E11C4700591BB8 /* RMStoreAppReceiptVerifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E34F28E11C4700591BB8 /* RMStoreAppReceiptVerifier.m */; };
+		3D97E35A28E11C4700591BB8 /* RMAppReceipt.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E35028E11C4700591BB8 /* RMAppReceipt.m */; };
+		3D97E35B28E11C4700591BB8 /* RMStoreKeychainPersistence.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E35128E11C4700591BB8 /* RMStoreKeychainPersistence.m */; };
+		3D97E35D28E11C4700591BB8 /* RMStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E35528E11C4700591BB8 /* RMStore.m */; };
+		3D97E36128E11DD700591BB8 /* UIAlertController+Blocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E36028E11DD700591BB8 /* UIAlertController+Blocks.m */; };
+		3D97E36428E1255500591BB8 /* SubscriptionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D97E36328E1255500591BB8 /* SubscriptionVC.m */; };
+		3D9CD41128F4CF71007ACBF1 /* DayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D9CD41028F4CF71007ACBF1 /* DayCell.m */; };
+		3DA8510928F5B16400363B83 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA8510828F5B16400363B83 /* NotificationService.swift */; };
+		3DA8510D28F5B16400363B83 /* OneSignalNotificationServiceExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3DA8510628F5B16300363B83 /* OneSignalNotificationServiceExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3DA8511428F5B26400363B83 /* OneSignal in Frameworks */ = {isa = PBXBuildFile; productRef = 3DA8511328F5B26400363B83 /* OneSignal */; };
+		3DAEB30428E0C5C6000B6A2F /* SwifterSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3DAEB30328E0C5C6000B6A2F /* SwifterSwift */; };
+		3DAEB30828E0CB5E000B6A2F /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DAEB30728E0CB5E000B6A2F /* Book.m */; };
+		3DAEB30B28E0FF28000B6A2F /* BooksVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DAEB30A28E0FF28000B6A2F /* BooksVC.m */; };
+		3DAEB30F28E10274000B6A2F /* BookCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DAEB30E28E10274000B6A2F /* BookCell.m */; };
+		3DB119C228F55347009F5D67 /* ProgressVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB119C128F55347009F5D67 /* ProgressVC.m */; };
+		3DC014A328E583C600E5E669 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3DC014A228E583C600E5E669 /* IQKeyboardManagerSwift */; };
+		3DC014A928E58B3700E5E669 /* UIViewController+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DC014A828E58B3700E5E669 /* UIViewController+Extension.m */; };
+		3DC014AC28E58D8600E5E669 /* whytracktime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3DC014AB28E58D8600E5E669 /* whytracktime.mp3 */; };
+		3DC014AF28E5A2E600E5E669 /* UITextView+Placeholder in Frameworks */ = {isa = PBXBuildFile; productRef = 3DC014AE28E5A2E600E5E669 /* UITextView+Placeholder */; };
+		3DCECBE528DFAA92001B391C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECBE428DFAA92001B391C /* AppDelegate.m */; };
+		3DCECBE828DFAA92001B391C /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECBE728DFAA92001B391C /* SceneDelegate.m */; };
+		3DCECBEB28DFAA92001B391C /* HomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECBEA28DFAA92001B391C /* HomeVC.m */; };
+		3DCECBEE28DFAA92001B391C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DCECBEC28DFAA92001B391C /* Main.storyboard */; };
+		3DCECBF028DFAA93001B391C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DCECBEF28DFAA93001B391C /* Assets.xcassets */; };
+		3DCECBF328DFAA93001B391C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DCECBF128DFAA93001B391C /* LaunchScreen.storyboard */; };
+		3DCECBF628DFAA93001B391C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECBF528DFAA93001B391C /* main.m */; };
+		3DCECC0028DFAA93001B391C /* OCD_HelpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECBFF28DFAA93001B391C /* OCD_HelpTests.m */; };
+		3DCECC0A28DFAA93001B391C /* OCD_HelpUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECC0928DFAA93001B391C /* OCD_HelpUITests.m */; };
+		3DCECC0C28DFAA93001B391C /* OCD_HelpUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECC0B28DFAA93001B391C /* OCD_HelpUITestsLaunchTests.m */; };
+		3DCECC1B28DFB389001B391C /* WebVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECC1A28DFB389001B391C /* WebVC.m */; };
+		3DCECC1E28DFB3F5001B391C /* MBProgressHUD in Frameworks */ = {isa = PBXBuildFile; productRef = 3DCECC1D28DFB3F5001B391C /* MBProgressHUD */; };
+		3DCECC2128DFB42A001B391C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCECC2028DFB429001B391C /* WebKit.framework */; };
+		3DCECC2328DFB434001B391C /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCECC2228DFB433001B391C /* StoreKit.framework */; };
+		3DCECC2628DFBA1F001B391C /* OcdTestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECC2528DFBA1F001B391C /* OcdTestVC.m */; };
+		3DCECC2928DFBFE3001B391C /* QuotesVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCECC2828DFBFE3001B391C /* QuotesVC.m */; };
+		3DDB350828F4A3BD00A68CA3 /* AnxietyLevelCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DDB350728F4A3BD00A68CA3 /* AnxietyLevelCell.m */; };
+		3DF232B428E6516200A3C5D0 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 3DF232B328E6516200A3C5D0 /* Realm */; };
+		3DF232B728E6567700A3C5D0 /* Tracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF232B628E6567700A3C5D0 /* Tracker.m */; };
+		3DF232BA28E658C800A3C5D0 /* TrackersManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF232B928E658C800A3C5D0 /* TrackersManager.m */; };
+		3DF232BD28E65C5200A3C5D0 /* NSDate+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF232BC28E65C5200A3C5D0 /* NSDate+Extension.m */; };
+		C7F9CC2F2909907900BCF97D /* instructions2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C7F9CC2E2909907900BCF97D /* instructions2.mp4 */; };
+		C7F9CC302909907900BCF97D /* instructions2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C7F9CC2E2909907900BCF97D /* instructions2.mp4 */; };
+		C7F9CC312909907900BCF97D /* instructions2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C7F9CC2E2909907900BCF97D /* instructions2.mp4 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3DA8510B28F5B16400363B83 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3DCECBD828DFAA92001B391C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3DA8510528F5B16300363B83;
+			remoteInfo = OneSignalNotificationServiceExtension;
+		};
+		3DCECBFC28DFAA93001B391C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3DCECBD828DFAA92001B391C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3DCECBDF28DFAA92001B391C;
+			remoteInfo = "OCD Help";
+		};
+		3DCECC0628DFAA93001B391C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3DCECBD828DFAA92001B391C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3DCECBDF28DFAA92001B391C;
+			remoteInfo = "OCD Help";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3DA8510E28F5B16400363B83 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				3DA8510D28F5B16400363B83 /* OneSignalNotificationServiceExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3D19BE8228E0BA9A00E6E4B5 /* 1-FalseMemoryOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1-FalseMemoryOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE8428E0BAB800E6E4B5 /* 2-HowToGetOverOcd.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2-HowToGetOverOcd.pdf"; sourceTree = "<group>"; };
+		3D19BE8628E0BAE200E6E4B5 /* 3-ReligiousOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "3-ReligiousOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE8828E0BB0800E6E4B5 /* 4-OcdRecoveryUsingMindfulness.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "4-OcdRecoveryUsingMindfulness.pdf"; sourceTree = "<group>"; };
+		3D19BE8A28E0BB2D00E6E4B5 /* 5-CheatingOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "5-CheatingOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE8C28E0BB4500E6E4B5 /* 6-FaqAboutOcd.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "6-FaqAboutOcd.pdf"; sourceTree = "<group>"; };
+		3D19BE8E28E0BB7000E6E4B5 /* 7-HelpYourChildGetOverOcd.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "7-HelpYourChildGetOverOcd.pdf"; sourceTree = "<group>"; };
+		3D19BE9028E0BB9F00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "8-NutritionLifeStyleAndOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE9228E0BBB900E6E4B5 /* 9-ErpForOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "9-ErpForOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE9428E0BBD600E6E4B5 /* 10-HarmOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "10-HarmOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BE9628E0BBF900E6E4B5 /* 11-GettingOverOcd.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "11-GettingOverOcd.pdf"; sourceTree = "<group>"; };
+		3D19BE9828E0BC1F00E6E4B5 /* 12-OcdSelfHelpWorkbook.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "12-OcdSelfHelpWorkbook.pdf"; sourceTree = "<group>"; };
+		3D19BE9A28E0BC3E00E6E4B5 /* 13-OcdRecoveryUsingCbt.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "13-OcdRecoveryUsingCbt.pdf"; sourceTree = "<group>"; };
+		3D19BE9C28E0BC6100E6E4B5 /* 14-RelationshipOcdRecoverySolution.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "14-RelationshipOcdRecoverySolution.pdf"; sourceTree = "<group>"; };
+		3D19BE9E28E0BCC900E6E4B5 /* 15-OvercomingOcdCompulsions.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "15-OvercomingOcdCompulsions.pdf"; sourceTree = "<group>"; };
+		3D19BEA028E0BCDF00E6E4B5 /* 16-PureOOcdRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "16-PureOOcdRecovery.pdf"; sourceTree = "<group>"; };
+		3D19BEA228E0BD0A00E6E4B5 /* 1-FalseMemoryOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1-FalseMemoryOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEA428E0BD3800E6E4B5 /* 2-HowToGetOverOcd@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2-HowToGetOverOcd@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEA628E0BD9900E6E4B5 /* 3-ReligiousOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "3-ReligiousOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEA828E0BDAF00E6E4B5 /* 4-OcdRecoveryUsingMindfulness@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "4-OcdRecoveryUsingMindfulness@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEAA28E0BDC300E6E4B5 /* 5-CheatingOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "5-CheatingOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEAC28E0BDD500E6E4B5 /* 6-FaqAboutOcd@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "6-FaqAboutOcd@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEAE28E0BDE900E6E4B5 /* 7-HelpYourChildGetOverOcd@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "7-HelpYourChildGetOverOcd@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEB028E0BDFD00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "8-NutritionLifeStyleAndOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEB228E0BE2200E6E4B5 /* 9-ErpForOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "9-ErpForOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEB428E0BE3600E6E4B5 /* 10-HarmOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "10-HarmOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEB628E0BE4D00E6E4B5 /* 11-GettingOverOcd@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "11-GettingOverOcd@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEB828E0BE7200E6E4B5 /* 12-OcdSelfHelpWorkbook@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "12-OcdSelfHelpWorkbook@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEBA28E0BE8600E6E4B5 /* 13-OcdRecoveryUsingCbt@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "13-OcdRecoveryUsingCbt@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEBC28E0BEA700E6E4B5 /* 14-RelationshipOcdRecoverySolution@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "14-RelationshipOcdRecoverySolution@iPad.pdf"; sourceTree = "<group>"; };
+		3D19BEBE28E0BED000E6E4B5 /* 16-PureOOcdRecovery@iPad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "16-PureOOcdRecovery@iPad.pdf"; sourceTree = "<group>"; };
+		3D2EA56228E27036005860C7 /* SettingsManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsManager.h; sourceTree = "<group>"; };
+		3D2EA56328E27036005860C7 /* SettingsManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsManager.m; sourceTree = "<group>"; };
+		3D330D0128E12FE1000E7494 /* AgreeTermVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AgreeTermVC.h; sourceTree = "<group>"; };
+		3D330D0228E12FE1000E7494 /* AgreeTermVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AgreeTermVC.m; sourceTree = "<group>"; };
+		3D330D0428E133A3000E7494 /* InstructionsVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstructionsVC.h; sourceTree = "<group>"; };
+		3D330D0528E133A3000E7494 /* InstructionsVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstructionsVC.m; sourceTree = "<group>"; };
+		3D525DD428F5A90400A9BE59 /* OCD Help-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OCD Help-Bridging-Header.h"; sourceTree = "<group>"; };
+		3D525DD528F5A90500A9BE59 /* InstagramShare.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstagramShare.swift; sourceTree = "<group>"; };
+		3D680DC828F5E7AF0052686C /* DatabaseMigrator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DatabaseMigrator.h; sourceTree = "<group>"; };
+		3D680DC928F5E7AF0052686C /* DatabaseMigrator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DatabaseMigrator.m; sourceTree = "<group>"; };
+		3D689B5428FC79B000B6DF18 /* DailyExercisesVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DailyExercisesVC.h; sourceTree = "<group>"; };
+		3D689B5528FC79B000B6DF18 /* DailyExercisesVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DailyExercisesVC.m; sourceTree = "<group>"; };
+		3D689B5A28FCC2D500B6DF18 /* ExerciseTextInputCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExerciseTextInputCell.h; sourceTree = "<group>"; };
+		3D689B5B28FCC2D500B6DF18 /* ExerciseTextInputCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExerciseTextInputCell.m; sourceTree = "<group>"; };
+		3D689B5D28FCC2E800B6DF18 /* ExerciseButtonCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExerciseButtonCell.h; sourceTree = "<group>"; };
+		3D689B5E28FCC2E800B6DF18 /* ExerciseButtonCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExerciseButtonCell.m; sourceTree = "<group>"; };
+		3D6F642628F8F4C100F02DBA /* 1-CheatingOcdRecovery.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "1-CheatingOcdRecovery.mp3"; sourceTree = "<group>"; };
+		3D6F642828F8F4ED00F02DBA /* 2-FalseMemoryOcdRecovery.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "2-FalseMemoryOcdRecovery.mp3"; sourceTree = "<group>"; };
+		3D6F642A28F8F5B100F02DBA /* 3-FastOcdRecovery.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "3-FastOcdRecovery.mp3"; sourceTree = "<group>"; };
+		3D6F642C28F8F5E400F02DBA /* 4-HowToGetOverOcd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "4-HowToGetOverOcd.mp3"; sourceTree = "<group>"; };
+		3D6F642E28F8F67000F02DBA /* 5-HelpYourChildGetOverOcd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "5-HelpYourChildGetOverOcd.mp3"; sourceTree = "<group>"; };
+		3D6F643028F8F69500F02DBA /* 6-NutritionLifeStyleAndOcdRecovery.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "6-NutritionLifeStyleAndOcdRecovery.mp3"; sourceTree = "<group>"; };
+		3D6F643228F8F6B600F02DBA /* 7-PureOOcdRecovery.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7-PureOOcdRecovery.mp3"; sourceTree = "<group>"; };
+		3D6F643428F8F6DE00F02DBA /* 8-RelationshipOcdRecoverySolution.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "8-RelationshipOcdRecoverySolution.mp3"; sourceTree = "<group>"; };
+		3D79253228E566F00050A343 /* TrackerVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrackerVC.h; sourceTree = "<group>"; };
+		3D79253328E566F00050A343 /* TrackerVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrackerVC.m; sourceTree = "<group>"; };
+		3D8A7B2A28F499760073A148 /* YearVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YearVC.h; sourceTree = "<group>"; };
+		3D8A7B2B28F499760073A148 /* YearVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YearVC.m; sourceTree = "<group>"; };
+		3D97E33F28E1183A00591BB8 /* BookVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BookVC.h; sourceTree = "<group>"; };
+		3D97E34028E1183A00591BB8 /* BookVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookVC.m; sourceTree = "<group>"; };
+		3D97E34628E11C4700591BB8 /* RMStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMStore.h; sourceTree = "<group>"; };
+		3D97E34828E11C4700591BB8 /* RMAppReceipt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMAppReceipt.h; sourceTree = "<group>"; };
+		3D97E34928E11C4700591BB8 /* RMStoreAppReceiptVerifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMStoreAppReceiptVerifier.h; sourceTree = "<group>"; };
+		3D97E34A28E11C4700591BB8 /* RMStoreKeychainPersistence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMStoreKeychainPersistence.h; sourceTree = "<group>"; };
+		3D97E34B28E11C4700591BB8 /* AppleIncRootCertificate.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = AppleIncRootCertificate.cer; sourceTree = "<group>"; };
+		3D97E34D28E11C4700591BB8 /* RMStoreTransaction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMStoreTransaction.m; sourceTree = "<group>"; };
+		3D97E34F28E11C4700591BB8 /* RMStoreAppReceiptVerifier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMStoreAppReceiptVerifier.m; sourceTree = "<group>"; };
+		3D97E35028E11C4700591BB8 /* RMAppReceipt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMAppReceipt.m; sourceTree = "<group>"; };
+		3D97E35128E11C4700591BB8 /* RMStoreKeychainPersistence.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMStoreKeychainPersistence.m; sourceTree = "<group>"; };
+		3D97E35428E11C4700591BB8 /* RMStoreTransaction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMStoreTransaction.h; sourceTree = "<group>"; };
+		3D97E35528E11C4700591BB8 /* RMStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMStore.m; sourceTree = "<group>"; };
+		3D97E35F28E11DD700591BB8 /* UIAlertController+Blocks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIAlertController+Blocks.h"; sourceTree = "<group>"; };
+		3D97E36028E11DD700591BB8 /* UIAlertController+Blocks.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIAlertController+Blocks.m"; sourceTree = "<group>"; };
+		3D97E36228E1255500591BB8 /* SubscriptionVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubscriptionVC.h; sourceTree = "<group>"; };
+		3D97E36328E1255500591BB8 /* SubscriptionVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubscriptionVC.m; sourceTree = "<group>"; };
+		3D9CD40F28F4CF71007ACBF1 /* DayCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DayCell.h; sourceTree = "<group>"; };
+		3D9CD41028F4CF71007ACBF1 /* DayCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DayCell.m; sourceTree = "<group>"; };
+		3DA8510628F5B16300363B83 /* OneSignalNotificationServiceExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = OneSignalNotificationServiceExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DA8510828F5B16400363B83 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		3DA8510A28F5B16400363B83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DA8511528F5B2C900363B83 /* OCD Help.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "OCD Help.entitlements"; sourceTree = "<group>"; };
+		3DAEB30628E0CB5E000B6A2F /* Book.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
+		3DAEB30728E0CB5E000B6A2F /* Book.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
+		3DAEB30928E0FF28000B6A2F /* BooksVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BooksVC.h; sourceTree = "<group>"; };
+		3DAEB30A28E0FF28000B6A2F /* BooksVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BooksVC.m; sourceTree = "<group>"; };
+		3DAEB30D28E10274000B6A2F /* BookCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BookCell.h; sourceTree = "<group>"; };
+		3DAEB30E28E10274000B6A2F /* BookCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookCell.m; sourceTree = "<group>"; };
+		3DB119C028F55347009F5D67 /* ProgressVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProgressVC.h; sourceTree = "<group>"; };
+		3DB119C128F55347009F5D67 /* ProgressVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProgressVC.m; sourceTree = "<group>"; };
+		3DC014A728E58B3700E5E669 /* UIViewController+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Extension.h"; sourceTree = "<group>"; };
+		3DC014A828E58B3700E5E669 /* UIViewController+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Extension.m"; sourceTree = "<group>"; };
+		3DC014AB28E58D8600E5E669 /* whytracktime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whytracktime.mp3; sourceTree = "<group>"; };
+		3DCECBE028DFAA92001B391C /* OCD Help.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OCD Help.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DCECBE328DFAA92001B391C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3DCECBE428DFAA92001B391C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3DCECBE628DFAA92001B391C /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
+		3DCECBE728DFAA92001B391C /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		3DCECBE928DFAA92001B391C /* HomeVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeVC.h; sourceTree = "<group>"; };
+		3DCECBEA28DFAA92001B391C /* HomeVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeVC.m; sourceTree = "<group>"; };
+		3DCECBED28DFAA92001B391C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3DCECBEF28DFAA93001B391C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3DCECBF228DFAA93001B391C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3DCECBF428DFAA93001B391C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DCECBF528DFAA93001B391C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3DCECBFB28DFAA93001B391C /* OCD HelpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OCD HelpTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DCECBFF28DFAA93001B391C /* OCD_HelpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCD_HelpTests.m; sourceTree = "<group>"; };
+		3DCECC0528DFAA93001B391C /* OCD HelpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OCD HelpUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DCECC0928DFAA93001B391C /* OCD_HelpUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCD_HelpUITests.m; sourceTree = "<group>"; };
+		3DCECC0B28DFAA93001B391C /* OCD_HelpUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCD_HelpUITestsLaunchTests.m; sourceTree = "<group>"; };
+		3DCECC1928DFB389001B391C /* WebVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebVC.h; sourceTree = "<group>"; };
+		3DCECC1A28DFB389001B391C /* WebVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebVC.m; sourceTree = "<group>"; };
+		3DCECC2028DFB429001B391C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		3DCECC2228DFB433001B391C /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		3DCECC2428DFBA1F001B391C /* OcdTestVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OcdTestVC.h; sourceTree = "<group>"; };
+		3DCECC2528DFBA1F001B391C /* OcdTestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OcdTestVC.m; sourceTree = "<group>"; };
+		3DCECC2728DFBFE3001B391C /* QuotesVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuotesVC.h; sourceTree = "<group>"; };
+		3DCECC2828DFBFE3001B391C /* QuotesVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuotesVC.m; sourceTree = "<group>"; };
+		3DDB350628F4A3BD00A68CA3 /* AnxietyLevelCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnxietyLevelCell.h; sourceTree = "<group>"; };
+		3DDB350728F4A3BD00A68CA3 /* AnxietyLevelCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnxietyLevelCell.m; sourceTree = "<group>"; };
+		3DF232B528E6567700A3C5D0 /* Tracker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tracker.h; sourceTree = "<group>"; };
+		3DF232B628E6567700A3C5D0 /* Tracker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tracker.m; sourceTree = "<group>"; };
+		3DF232B828E658C800A3C5D0 /* TrackersManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrackersManager.h; sourceTree = "<group>"; };
+		3DF232B928E658C800A3C5D0 /* TrackersManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrackersManager.m; sourceTree = "<group>"; };
+		3DF232BB28E65C5200A3C5D0 /* NSDate+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSDate+Extension.h"; sourceTree = "<group>"; };
+		3DF232BC28E65C5200A3C5D0 /* NSDate+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Extension.m"; sourceTree = "<group>"; };
+		C7F9CC2E2909907900BCF97D /* instructions2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = instructions2.mp4; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3DA8510328F5B16300363B83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBDD28DFAA92001B391C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D97E34428E11C2A00591BB8 /* OpenSSL in Frameworks */,
+				3DCECC2328DFB434001B391C /* StoreKit.framework in Frameworks */,
+				3DAEB30428E0C5C6000B6A2F /* SwifterSwift in Frameworks */,
+				3DC014AF28E5A2E600E5E669 /* UITextView+Placeholder in Frameworks */,
+				3DCECC2128DFB42A001B391C /* WebKit.framework in Frameworks */,
+				3DA8511428F5B26400363B83 /* OneSignal in Frameworks */,
+				3DCECC1E28DFB3F5001B391C /* MBProgressHUD in Frameworks */,
+				3DF232B428E6516200A3C5D0 /* Realm in Frameworks */,
+				3DC014A328E583C600E5E669 /* IQKeyboardManagerSwift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBF828DFAA93001B391C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECC0228DFAA93001B391C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D19BE8028E0BA4400E6E4B5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECBEF28DFAA93001B391C /* Assets.xcassets */,
+				C7F9CC2E2909907900BCF97D /* instructions2.mp4 */,
+				3DC014AA28E58D7C00E5E669 /* Audio */,
+				3D19BE8128E0BA5600E6E4B5 /* Pdf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		3D19BE8128E0BA5600E6E4B5 /* Pdf */ = {
+			isa = PBXGroup;
+			children = (
+				3D19BE8228E0BA9A00E6E4B5 /* 1-FalseMemoryOcdRecovery.pdf */,
+				3D19BEA228E0BD0A00E6E4B5 /* 1-FalseMemoryOcdRecovery@iPad.pdf */,
+				3D19BE8428E0BAB800E6E4B5 /* 2-HowToGetOverOcd.pdf */,
+				3D19BEA428E0BD3800E6E4B5 /* 2-HowToGetOverOcd@iPad.pdf */,
+				3D19BE8628E0BAE200E6E4B5 /* 3-ReligiousOcdRecovery.pdf */,
+				3D19BEA628E0BD9900E6E4B5 /* 3-ReligiousOcdRecovery@iPad.pdf */,
+				3D19BE8828E0BB0800E6E4B5 /* 4-OcdRecoveryUsingMindfulness.pdf */,
+				3D19BEA828E0BDAF00E6E4B5 /* 4-OcdRecoveryUsingMindfulness@iPad.pdf */,
+				3D19BE8A28E0BB2D00E6E4B5 /* 5-CheatingOcdRecovery.pdf */,
+				3D19BEAA28E0BDC300E6E4B5 /* 5-CheatingOcdRecovery@iPad.pdf */,
+				3D19BE8C28E0BB4500E6E4B5 /* 6-FaqAboutOcd.pdf */,
+				3D19BEAC28E0BDD500E6E4B5 /* 6-FaqAboutOcd@iPad.pdf */,
+				3D19BE8E28E0BB7000E6E4B5 /* 7-HelpYourChildGetOverOcd.pdf */,
+				3D19BEAE28E0BDE900E6E4B5 /* 7-HelpYourChildGetOverOcd@iPad.pdf */,
+				3D19BE9028E0BB9F00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery.pdf */,
+				3D19BEB028E0BDFD00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery@iPad.pdf */,
+				3D19BE9228E0BBB900E6E4B5 /* 9-ErpForOcdRecovery.pdf */,
+				3D19BEB228E0BE2200E6E4B5 /* 9-ErpForOcdRecovery@iPad.pdf */,
+				3D19BE9428E0BBD600E6E4B5 /* 10-HarmOcdRecovery.pdf */,
+				3D19BEB428E0BE3600E6E4B5 /* 10-HarmOcdRecovery@iPad.pdf */,
+				3D19BE9628E0BBF900E6E4B5 /* 11-GettingOverOcd.pdf */,
+				3D19BEB628E0BE4D00E6E4B5 /* 11-GettingOverOcd@iPad.pdf */,
+				3D19BE9828E0BC1F00E6E4B5 /* 12-OcdSelfHelpWorkbook.pdf */,
+				3D19BEB828E0BE7200E6E4B5 /* 12-OcdSelfHelpWorkbook@iPad.pdf */,
+				3D19BE9A28E0BC3E00E6E4B5 /* 13-OcdRecoveryUsingCbt.pdf */,
+				3D19BEBA28E0BE8600E6E4B5 /* 13-OcdRecoveryUsingCbt@iPad.pdf */,
+				3D19BE9C28E0BC6100E6E4B5 /* 14-RelationshipOcdRecoverySolution.pdf */,
+				3D19BEBC28E0BEA700E6E4B5 /* 14-RelationshipOcdRecoverySolution@iPad.pdf */,
+				3D19BE9E28E0BCC900E6E4B5 /* 15-OvercomingOcdCompulsions.pdf */,
+				3D19BEA028E0BCDF00E6E4B5 /* 16-PureOOcdRecovery.pdf */,
+				3D19BEBE28E0BED000E6E4B5 /* 16-PureOOcdRecovery@iPad.pdf */,
+			);
+			path = Pdf;
+			sourceTree = "<group>";
+		};
+		3D2EA56128E27016005860C7 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				3D2EA56228E27036005860C7 /* SettingsManager.h */,
+				3D2EA56328E27036005860C7 /* SettingsManager.m */,
+				3DF232B828E658C800A3C5D0 /* TrackersManager.h */,
+				3DF232B928E658C800A3C5D0 /* TrackersManager.m */,
+				3D680DC828F5E7AF0052686C /* DatabaseMigrator.h */,
+				3D680DC928F5E7AF0052686C /* DatabaseMigrator.m */,
+				3D525DD528F5A90500A9BE59 /* InstagramShare.swift */,
+				3D525DD428F5A90400A9BE59 /* OCD Help-Bridging-Header.h */,
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		3D97E34528E11C4700591BB8 /* RMStore */ = {
+			isa = PBXGroup;
+			children = (
+				3D97E34628E11C4700591BB8 /* RMStore.h */,
+				3D97E35528E11C4700591BB8 /* RMStore.m */,
+				3D97E34728E11C4700591BB8 /* Optional */,
+			);
+			path = RMStore;
+			sourceTree = "<group>";
+		};
+		3D97E34728E11C4700591BB8 /* Optional */ = {
+			isa = PBXGroup;
+			children = (
+				3D97E34B28E11C4700591BB8 /* AppleIncRootCertificate.cer */,
+				3D97E34828E11C4700591BB8 /* RMAppReceipt.h */,
+				3D97E35028E11C4700591BB8 /* RMAppReceipt.m */,
+				3D97E34928E11C4700591BB8 /* RMStoreAppReceiptVerifier.h */,
+				3D97E34F28E11C4700591BB8 /* RMStoreAppReceiptVerifier.m */,
+				3D97E34A28E11C4700591BB8 /* RMStoreKeychainPersistence.h */,
+				3D97E35128E11C4700591BB8 /* RMStoreKeychainPersistence.m */,
+				3D97E35428E11C4700591BB8 /* RMStoreTransaction.h */,
+				3D97E34D28E11C4700591BB8 /* RMStoreTransaction.m */,
+			);
+			path = Optional;
+			sourceTree = "<group>";
+		};
+		3D97E35E28E11DC000591BB8 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				3D97E35F28E11DD700591BB8 /* UIAlertController+Blocks.h */,
+				3D97E36028E11DD700591BB8 /* UIAlertController+Blocks.m */,
+				3DC014A728E58B3700E5E669 /* UIViewController+Extension.h */,
+				3DC014A828E58B3700E5E669 /* UIViewController+Extension.m */,
+				3DF232BB28E65C5200A3C5D0 /* NSDate+Extension.h */,
+				3DF232BC28E65C5200A3C5D0 /* NSDate+Extension.m */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		3DA8510728F5B16400363B83 /* OneSignalNotificationServiceExtension */ = {
+			isa = PBXGroup;
+			children = (
+				3DA8510828F5B16400363B83 /* NotificationService.swift */,
+				3DA8510A28F5B16400363B83 /* Info.plist */,
+			);
+			path = OneSignalNotificationServiceExtension;
+			sourceTree = "<group>";
+		};
+		3DAEB30528E0CB46000B6A2F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3DAEB30628E0CB5E000B6A2F /* Book.h */,
+				3DAEB30728E0CB5E000B6A2F /* Book.m */,
+				3DF232B528E6567700A3C5D0 /* Tracker.h */,
+				3DF232B628E6567700A3C5D0 /* Tracker.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3DAEB30C28E1025A000B6A2F /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				3DAEB30D28E10274000B6A2F /* BookCell.h */,
+				3DAEB30E28E10274000B6A2F /* BookCell.m */,
+				3DDB350628F4A3BD00A68CA3 /* AnxietyLevelCell.h */,
+				3DDB350728F4A3BD00A68CA3 /* AnxietyLevelCell.m */,
+				3D9CD40F28F4CF71007ACBF1 /* DayCell.h */,
+				3D9CD41028F4CF71007ACBF1 /* DayCell.m */,
+				3D689B5A28FCC2D500B6DF18 /* ExerciseTextInputCell.h */,
+				3D689B5B28FCC2D500B6DF18 /* ExerciseTextInputCell.m */,
+				3D689B5D28FCC2E800B6DF18 /* ExerciseButtonCell.h */,
+				3D689B5E28FCC2E800B6DF18 /* ExerciseButtonCell.m */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		3DC014AA28E58D7C00E5E669 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				3DC014AB28E58D8600E5E669 /* whytracktime.mp3 */,
+				3D6F642628F8F4C100F02DBA /* 1-CheatingOcdRecovery.mp3 */,
+				3D6F642828F8F4ED00F02DBA /* 2-FalseMemoryOcdRecovery.mp3 */,
+				3D6F642A28F8F5B100F02DBA /* 3-FastOcdRecovery.mp3 */,
+				3D6F642C28F8F5E400F02DBA /* 4-HowToGetOverOcd.mp3 */,
+				3D6F642E28F8F67000F02DBA /* 5-HelpYourChildGetOverOcd.mp3 */,
+				3D6F643028F8F69500F02DBA /* 6-NutritionLifeStyleAndOcdRecovery.mp3 */,
+				3D6F643228F8F6B600F02DBA /* 7-PureOOcdRecovery.mp3 */,
+				3D6F643428F8F6DE00F02DBA /* 8-RelationshipOcdRecoverySolution.mp3 */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		3DCECBD728DFAA92001B391C = {
+			isa = PBXGroup;
+			children = (
+				3DCECBE228DFAA92001B391C /* OCD Help */,
+				3DCECBFE28DFAA93001B391C /* OCD HelpTests */,
+				3DCECC0828DFAA93001B391C /* OCD HelpUITests */,
+				3DA8510728F5B16400363B83 /* OneSignalNotificationServiceExtension */,
+				3DCECBE128DFAA92001B391C /* Products */,
+				3DCECC1F28DFB429001B391C /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3DCECBE128DFAA92001B391C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECBE028DFAA92001B391C /* OCD Help.app */,
+				3DCECBFB28DFAA93001B391C /* OCD HelpTests.xctest */,
+				3DCECC0528DFAA93001B391C /* OCD HelpUITests.xctest */,
+				3DA8510628F5B16300363B83 /* OneSignalNotificationServiceExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3DCECBE228DFAA92001B391C /* OCD Help */ = {
+			isa = PBXGroup;
+			children = (
+				3DA8511528F5B2C900363B83 /* OCD Help.entitlements */,
+				3DCECBE328DFAA92001B391C /* AppDelegate.h */,
+				3DCECBE428DFAA92001B391C /* AppDelegate.m */,
+				3DCECBE628DFAA92001B391C /* SceneDelegate.h */,
+				3DCECBE728DFAA92001B391C /* SceneDelegate.m */,
+				3D2EA56128E27016005860C7 /* Manager */,
+				3DAEB30528E0CB46000B6A2F /* Model */,
+				3DCECC1828DFB33D001B391C /* ViewControllers */,
+				3DAEB30C28E1025A000B6A2F /* Cells */,
+				3D97E35E28E11DC000591BB8 /* Extension */,
+				3D97E34528E11C4700591BB8 /* RMStore */,
+				3DCECBEC28DFAA92001B391C /* Main.storyboard */,
+				3DCECBF128DFAA93001B391C /* LaunchScreen.storyboard */,
+				3D19BE8028E0BA4400E6E4B5 /* Resources */,
+				3DCECBF428DFAA93001B391C /* Info.plist */,
+				3DCECBF528DFAA93001B391C /* main.m */,
+			);
+			path = "OCD Help";
+			sourceTree = "<group>";
+		};
+		3DCECBFE28DFAA93001B391C /* OCD HelpTests */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECBFF28DFAA93001B391C /* OCD_HelpTests.m */,
+			);
+			path = "OCD HelpTests";
+			sourceTree = "<group>";
+		};
+		3DCECC0828DFAA93001B391C /* OCD HelpUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECC0928DFAA93001B391C /* OCD_HelpUITests.m */,
+				3DCECC0B28DFAA93001B391C /* OCD_HelpUITestsLaunchTests.m */,
+			);
+			path = "OCD HelpUITests";
+			sourceTree = "<group>";
+		};
+		3DCECC1828DFB33D001B391C /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECBE928DFAA92001B391C /* HomeVC.h */,
+				3DCECBEA28DFAA92001B391C /* HomeVC.m */,
+				3D97E36228E1255500591BB8 /* SubscriptionVC.h */,
+				3D97E36328E1255500591BB8 /* SubscriptionVC.m */,
+				3D330D0128E12FE1000E7494 /* AgreeTermVC.h */,
+				3D330D0228E12FE1000E7494 /* AgreeTermVC.m */,
+				3D330D0428E133A3000E7494 /* InstructionsVC.h */,
+				3D330D0528E133A3000E7494 /* InstructionsVC.m */,
+				3DCECC1928DFB389001B391C /* WebVC.h */,
+				3DCECC1A28DFB389001B391C /* WebVC.m */,
+				3DCECC2428DFBA1F001B391C /* OcdTestVC.h */,
+				3DCECC2528DFBA1F001B391C /* OcdTestVC.m */,
+				3DCECC2728DFBFE3001B391C /* QuotesVC.h */,
+				3DCECC2828DFBFE3001B391C /* QuotesVC.m */,
+				3DAEB30928E0FF28000B6A2F /* BooksVC.h */,
+				3DAEB30A28E0FF28000B6A2F /* BooksVC.m */,
+				3D97E33F28E1183A00591BB8 /* BookVC.h */,
+				3D97E34028E1183A00591BB8 /* BookVC.m */,
+				3D79253228E566F00050A343 /* TrackerVC.h */,
+				3D79253328E566F00050A343 /* TrackerVC.m */,
+				3D8A7B2A28F499760073A148 /* YearVC.h */,
+				3D8A7B2B28F499760073A148 /* YearVC.m */,
+				3DB119C028F55347009F5D67 /* ProgressVC.h */,
+				3DB119C128F55347009F5D67 /* ProgressVC.m */,
+				3D689B5428FC79B000B6DF18 /* DailyExercisesVC.h */,
+				3D689B5528FC79B000B6DF18 /* DailyExercisesVC.m */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3DCECC1F28DFB429001B391C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DCECC2228DFB433001B391C /* StoreKit.framework */,
+				3DCECC2028DFB429001B391C /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3DA8510528F5B16300363B83 /* OneSignalNotificationServiceExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DA8511128F5B16400363B83 /* Build configuration list for PBXNativeTarget "OneSignalNotificationServiceExtension" */;
+			buildPhases = (
+				3DA8510228F5B16300363B83 /* Sources */,
+				3DA8510328F5B16300363B83 /* Frameworks */,
+				3DA8510428F5B16300363B83 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OneSignalNotificationServiceExtension;
+			productName = OneSignalNotificationServiceExtension;
+			productReference = 3DA8510628F5B16300363B83 /* OneSignalNotificationServiceExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		3DCECBDF28DFAA92001B391C /* OCD Help */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DCECC0F28DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD Help" */;
+			buildPhases = (
+				3DCECBDC28DFAA92001B391C /* Sources */,
+				3DCECBDD28DFAA92001B391C /* Frameworks */,
+				3DCECBDE28DFAA92001B391C /* Resources */,
+				3DA8510E28F5B16400363B83 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3DA8510C28F5B16400363B83 /* PBXTargetDependency */,
+			);
+			name = "OCD Help";
+			packageProductDependencies = (
+				3DCECC1D28DFB3F5001B391C /* MBProgressHUD */,
+				3DAEB30328E0C5C6000B6A2F /* SwifterSwift */,
+				3D97E34328E11C2A00591BB8 /* OpenSSL */,
+				3DC014A228E583C600E5E669 /* IQKeyboardManagerSwift */,
+				3DC014AE28E5A2E600E5E669 /* UITextView+Placeholder */,
+				3DF232B328E6516200A3C5D0 /* Realm */,
+				3DA8511328F5B26400363B83 /* OneSignal */,
+			);
+			productName = "OCD Help";
+			productReference = 3DCECBE028DFAA92001B391C /* OCD Help.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3DCECBFA28DFAA93001B391C /* OCD HelpTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DCECC1228DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD HelpTests" */;
+			buildPhases = (
+				3DCECBF728DFAA93001B391C /* Sources */,
+				3DCECBF828DFAA93001B391C /* Frameworks */,
+				3DCECBF928DFAA93001B391C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3DCECBFD28DFAA93001B391C /* PBXTargetDependency */,
+			);
+			name = "OCD HelpTests";
+			productName = "OCD HelpTests";
+			productReference = 3DCECBFB28DFAA93001B391C /* OCD HelpTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3DCECC0428DFAA93001B391C /* OCD HelpUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DCECC1528DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD HelpUITests" */;
+			buildPhases = (
+				3DCECC0128DFAA93001B391C /* Sources */,
+				3DCECC0228DFAA93001B391C /* Frameworks */,
+				3DCECC0328DFAA93001B391C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3DCECC0728DFAA93001B391C /* PBXTargetDependency */,
+			);
+			name = "OCD HelpUITests";
+			productName = "OCD HelpUITests";
+			productReference = 3DCECC0528DFAA93001B391C /* OCD HelpUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3DCECBD828DFAA92001B391C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					3DA8510528F5B16300363B83 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					3DCECBDF28DFAA92001B391C = {
+						CreatedOnToolsVersion = 14.0;
+						LastSwiftMigration = 1400;
+					};
+					3DCECBFA28DFAA93001B391C = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = 3DCECBDF28DFAA92001B391C;
+					};
+					3DCECC0428DFAA93001B391C = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = 3DCECBDF28DFAA92001B391C;
+					};
+				};
+			};
+			buildConfigurationList = 3DCECBDB28DFAA92001B391C /* Build configuration list for PBXProject "OCD Help" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3DCECBD728DFAA92001B391C;
+			packageReferences = (
+				3DCECC1C28DFB3F5001B391C /* XCRemoteSwiftPackageReference "MBProgressHUD" */,
+				3DAEB30228E0C5C6000B6A2F /* XCRemoteSwiftPackageReference "SwifterSwift" */,
+				3D97E34228E11C2A00591BB8 /* XCRemoteSwiftPackageReference "OpenSSL" */,
+				3DC014A128E583C600E5E669 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+				3DC014AD28E5A2E600E5E669 /* XCRemoteSwiftPackageReference "UITextView-Placeholder" */,
+				3DF232B228E6516200A3C5D0 /* XCRemoteSwiftPackageReference "realm-cocoa" */,
+				3DA8511228F5B26400363B83 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */,
+			);
+			productRefGroup = 3DCECBE128DFAA92001B391C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3DCECBDF28DFAA92001B391C /* OCD Help */,
+				3DCECBFA28DFAA93001B391C /* OCD HelpTests */,
+				3DCECC0428DFAA93001B391C /* OCD HelpUITests */,
+				3DA8510528F5B16300363B83 /* OneSignalNotificationServiceExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3DA8510428F5B16300363B83 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBDE28DFAA92001B391C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D19BEA728E0BD9900E6E4B5 /* 3-ReligiousOcdRecovery@iPad.pdf in Resources */,
+				3D6F643128F8F69500F02DBA /* 6-NutritionLifeStyleAndOcdRecovery.mp3 in Resources */,
+				3D19BEA928E0BDAF00E6E4B5 /* 4-OcdRecoveryUsingMindfulness@iPad.pdf in Resources */,
+				3D19BE9928E0BC1F00E6E4B5 /* 12-OcdSelfHelpWorkbook.pdf in Resources */,
+				3D19BE8728E0BAE300E6E4B5 /* 3-ReligiousOcdRecovery.pdf in Resources */,
+				3D19BE8F28E0BB7000E6E4B5 /* 7-HelpYourChildGetOverOcd.pdf in Resources */,
+				3DCECBF328DFAA93001B391C /* LaunchScreen.storyboard in Resources */,
+				3D6F642928F8F4ED00F02DBA /* 2-FalseMemoryOcdRecovery.mp3 in Resources */,
+				3D19BEB328E0BE2300E6E4B5 /* 9-ErpForOcdRecovery@iPad.pdf in Resources */,
+				3D19BEAB28E0BDC300E6E4B5 /* 5-CheatingOcdRecovery@iPad.pdf in Resources */,
+				3D19BEBF28E0BED000E6E4B5 /* 16-PureOOcdRecovery@iPad.pdf in Resources */,
+				3D6F642728F8F4C100F02DBA /* 1-CheatingOcdRecovery.mp3 in Resources */,
+				3D19BE9128E0BB9F00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery.pdf in Resources */,
+				3D19BE9328E0BBB900E6E4B5 /* 9-ErpForOcdRecovery.pdf in Resources */,
+				3D6F642D28F8F5E400F02DBA /* 4-HowToGetOverOcd.mp3 in Resources */,
+				3DC014AC28E58D8600E5E669 /* whytracktime.mp3 in Resources */,
+				3D19BE9B28E0BC3E00E6E4B5 /* 13-OcdRecoveryUsingCbt.pdf in Resources */,
+				3D6F642B28F8F5B100F02DBA /* 3-FastOcdRecovery.mp3 in Resources */,
+				C7F9CC2F2909907900BCF97D /* instructions2.mp4 in Resources */,
+				3D6F642F28F8F67000F02DBA /* 5-HelpYourChildGetOverOcd.mp3 in Resources */,
+				3D19BE9F28E0BCC900E6E4B5 /* 15-OvercomingOcdCompulsions.pdf in Resources */,
+				3DCECBF028DFAA93001B391C /* Assets.xcassets in Resources */,
+				3D19BEBB28E0BE8600E6E4B5 /* 13-OcdRecoveryUsingCbt@iPad.pdf in Resources */,
+				3D19BEAD28E0BDD500E6E4B5 /* 6-FaqAboutOcd@iPad.pdf in Resources */,
+				3D19BE8928E0BB0800E6E4B5 /* 4-OcdRecoveryUsingMindfulness.pdf in Resources */,
+				3D19BEB728E0BE4D00E6E4B5 /* 11-GettingOverOcd@iPad.pdf in Resources */,
+				3D19BEA328E0BD0A00E6E4B5 /* 1-FalseMemoryOcdRecovery@iPad.pdf in Resources */,
+				3D19BEA528E0BD3800E6E4B5 /* 2-HowToGetOverOcd@iPad.pdf in Resources */,
+				3D19BEBD28E0BEA700E6E4B5 /* 14-RelationshipOcdRecoverySolution@iPad.pdf in Resources */,
+				3D19BEB128E0BDFD00E6E4B5 /* 8-NutritionLifeStyleAndOcdRecovery@iPad.pdf in Resources */,
+				3D19BE9728E0BBF900E6E4B5 /* 11-GettingOverOcd.pdf in Resources */,
+				3D97E35628E11C4700591BB8 /* AppleIncRootCertificate.cer in Resources */,
+				3D19BE8D28E0BB4500E6E4B5 /* 6-FaqAboutOcd.pdf in Resources */,
+				3D19BE8328E0BA9A00E6E4B5 /* 1-FalseMemoryOcdRecovery.pdf in Resources */,
+				3D6F643328F8F6B600F02DBA /* 7-PureOOcdRecovery.mp3 in Resources */,
+				3D19BE9D28E0BC6100E6E4B5 /* 14-RelationshipOcdRecoverySolution.pdf in Resources */,
+				3D19BEB928E0BE7200E6E4B5 /* 12-OcdSelfHelpWorkbook@iPad.pdf in Resources */,
+				3D19BEA128E0BCDF00E6E4B5 /* 16-PureOOcdRecovery.pdf in Resources */,
+				3D19BEB528E0BE3600E6E4B5 /* 10-HarmOcdRecovery@iPad.pdf in Resources */,
+				3D19BE8B28E0BB2D00E6E4B5 /* 5-CheatingOcdRecovery.pdf in Resources */,
+				3D19BE9528E0BBD600E6E4B5 /* 10-HarmOcdRecovery.pdf in Resources */,
+				3D19BE8528E0BAB900E6E4B5 /* 2-HowToGetOverOcd.pdf in Resources */,
+				3D19BEAF28E0BDE900E6E4B5 /* 7-HelpYourChildGetOverOcd@iPad.pdf in Resources */,
+				3D6F643528F8F6DE00F02DBA /* 8-RelationshipOcdRecoverySolution.mp3 in Resources */,
+				3DCECBEE28DFAA92001B391C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBF928DFAA93001B391C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7F9CC302909907900BCF97D /* instructions2.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECC0328DFAA93001B391C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7F9CC312909907900BCF97D /* instructions2.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DA8510228F5B16300363B83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DA8510928F5B16400363B83 /* NotificationService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBDC28DFAA92001B391C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DF232BD28E65C5200A3C5D0 /* NSDate+Extension.m in Sources */,
+				3DAEB30B28E0FF28000B6A2F /* BooksVC.m in Sources */,
+				3D2EA56428E27036005860C7 /* SettingsManager.m in Sources */,
+				3DC014A928E58B3700E5E669 /* UIViewController+Extension.m in Sources */,
+				3D525DD628F5A90500A9BE59 /* InstagramShare.swift in Sources */,
+				3D97E34128E1183A00591BB8 /* BookVC.m in Sources */,
+				3D680DCA28F5E7AF0052686C /* DatabaseMigrator.m in Sources */,
+				3DCECC1B28DFB389001B391C /* WebVC.m in Sources */,
+				3D97E35B28E11C4700591BB8 /* RMStoreKeychainPersistence.m in Sources */,
+				3D97E36428E1255500591BB8 /* SubscriptionVC.m in Sources */,
+				3DCECBEB28DFAA92001B391C /* HomeVC.m in Sources */,
+				3D330D0628E133A3000E7494 /* InstructionsVC.m in Sources */,
+				3DF232B728E6567700A3C5D0 /* Tracker.m in Sources */,
+				3D97E35928E11C4700591BB8 /* RMStoreAppReceiptVerifier.m in Sources */,
+				3DCECBE528DFAA92001B391C /* AppDelegate.m in Sources */,
+				3D79253428E566F00050A343 /* TrackerVC.m in Sources */,
+				3D97E35D28E11C4700591BB8 /* RMStore.m in Sources */,
+				3DF232BA28E658C800A3C5D0 /* TrackersManager.m in Sources */,
+				3DCECC2628DFBA1F001B391C /* OcdTestVC.m in Sources */,
+				3D8A7B2C28F499760073A148 /* YearVC.m in Sources */,
+				3D97E35A28E11C4700591BB8 /* RMAppReceipt.m in Sources */,
+				3DAEB30828E0CB5E000B6A2F /* Book.m in Sources */,
+				3D689B5F28FCC2E800B6DF18 /* ExerciseButtonCell.m in Sources */,
+				3D689B5C28FCC2D500B6DF18 /* ExerciseTextInputCell.m in Sources */,
+				3DB119C228F55347009F5D67 /* ProgressVC.m in Sources */,
+				3DDB350828F4A3BD00A68CA3 /* AnxietyLevelCell.m in Sources */,
+				3D9CD41128F4CF71007ACBF1 /* DayCell.m in Sources */,
+				3D689B5628FC79B000B6DF18 /* DailyExercisesVC.m in Sources */,
+				3DCECBF628DFAA93001B391C /* main.m in Sources */,
+				3D97E35828E11C4700591BB8 /* RMStoreTransaction.m in Sources */,
+				3DCECC2928DFBFE3001B391C /* QuotesVC.m in Sources */,
+				3D97E36128E11DD700591BB8 /* UIAlertController+Blocks.m in Sources */,
+				3DAEB30F28E10274000B6A2F /* BookCell.m in Sources */,
+				3DCECBE828DFAA92001B391C /* SceneDelegate.m in Sources */,
+				3D330D0328E12FE1000E7494 /* AgreeTermVC.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECBF728DFAA93001B391C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DCECC0028DFAA93001B391C /* OCD_HelpTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DCECC0128DFAA93001B391C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DCECC0C28DFAA93001B391C /* OCD_HelpUITestsLaunchTests.m in Sources */,
+				3DCECC0A28DFAA93001B391C /* OCD_HelpUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3DA8510C28F5B16400363B83 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3DA8510528F5B16300363B83 /* OneSignalNotificationServiceExtension */;
+			targetProxy = 3DA8510B28F5B16400363B83 /* PBXContainerItemProxy */;
+		};
+		3DCECBFD28DFAA93001B391C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3DCECBDF28DFAA92001B391C /* OCD Help */;
+			targetProxy = 3DCECBFC28DFAA93001B391C /* PBXContainerItemProxy */;
+		};
+		3DCECC0728DFAA93001B391C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3DCECBDF28DFAA92001B391C /* OCD Help */;
+			targetProxy = 3DCECC0628DFAA93001B391C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3DCECBEC28DFAA92001B391C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DCECBED28DFAA92001B391C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3DCECBF128DFAA93001B391C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DCECBF228DFAA93001B391C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3DA8510F28F5B16400363B83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = OneSignalNotificationServiceExtension;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OneSignalNotificationServiceExtension";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3DA8511028F5B16400363B83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = OneSignalNotificationServiceExtension;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OneSignalNotificationServiceExtension";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3DCECC0D28DFAA93001B391C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3DCECC0E28DFAA93001B391C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3DCECC1028DFAA93001B391C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "OCD Help/OCD Help.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "OCD Help/Info.plist";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Wants to know your location to save along with tracker information";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "\"Wants to store image in your photos\"";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "\"Wants to store image in your photos\"";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 10.2;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "OCD Help/Manager/OCD Help-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3DCECC1128DFAA93001B391C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "OCD Help/OCD Help.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "OCD Help/Info.plist";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Wants to know your location to save along with tracker information";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "\"Wants to store image in your photos\"";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "\"Wants to store image in your photos\"";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 10.2;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "OCD Help/Manager/OCD Help-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3DCECC1328DFAA93001B391C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OCD-HelpTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OCD Help.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/OCD Help";
+			};
+			name = Debug;
+		};
+		3DCECC1428DFAA93001B391C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OCD-HelpTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OCD Help.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/OCD Help";
+			};
+			name = Release;
+		};
+		3DCECC1628DFAA93001B391C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OCD-HelpUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "OCD Help";
+			};
+			name = Debug;
+		};
+		3DCECC1728DFAA93001B391C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GE74R37F7Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HD-Web-Services.ocdinc.OCD-HelpUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "OCD Help";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3DA8511128F5B16400363B83 /* Build configuration list for PBXNativeTarget "OneSignalNotificationServiceExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DA8510F28F5B16400363B83 /* Debug */,
+				3DA8511028F5B16400363B83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DCECBDB28DFAA92001B391C /* Build configuration list for PBXProject "OCD Help" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DCECC0D28DFAA93001B391C /* Debug */,
+				3DCECC0E28DFAA93001B391C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DCECC0F28DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD Help" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DCECC1028DFAA93001B391C /* Debug */,
+				3DCECC1128DFAA93001B391C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DCECC1228DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD HelpTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DCECC1328DFAA93001B391C /* Debug */,
+				3DCECC1428DFAA93001B391C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DCECC1528DFAA93001B391C /* Build configuration list for PBXNativeTarget "OCD HelpUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DCECC1628DFAA93001B391C /* Debug */,
+				3DCECC1728DFAA93001B391C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3D97E34228E11C2A00591BB8 /* XCRemoteSwiftPackageReference "OpenSSL" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/krzyzanowskim/OpenSSL";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		3DA8511228F5B26400363B83 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/OneSignal/OneSignal-XCFramework";
+			requirement = {
+				kind = versionRange;
+				maximumVersion = 4.0.0;
+				minimumVersion = 3.0.0;
+			};
+		};
+		3DAEB30228E0C5C6000B6A2F /* XCRemoteSwiftPackageReference "SwifterSwift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwifterSwift/SwifterSwift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		3DC014A128E583C600E5E669 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		3DC014AD28E5A2E600E5E669 /* XCRemoteSwiftPackageReference "UITextView-Placeholder" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/devxoul/UITextView-Placeholder";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		3DCECC1C28DFB3F5001B391C /* XCRemoteSwiftPackageReference "MBProgressHUD" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jdg/MBProgressHUD";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		3DF232B228E6516200A3C5D0 /* XCRemoteSwiftPackageReference "realm-cocoa" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-cocoa";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.30.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3D97E34328E11C2A00591BB8 /* OpenSSL */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3D97E34228E11C2A00591BB8 /* XCRemoteSwiftPackageReference "OpenSSL" */;
+			productName = OpenSSL;
+		};
+		3DA8511328F5B26400363B83 /* OneSignal */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DA8511228F5B26400363B83 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */;
+			productName = OneSignal;
+		};
+		3DAEB30328E0C5C6000B6A2F /* SwifterSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DAEB30228E0C5C6000B6A2F /* XCRemoteSwiftPackageReference "SwifterSwift" */;
+			productName = SwifterSwift;
+		};
+		3DC014A228E583C600E5E669 /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DC014A128E583C600E5E669 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+		3DC014AE28E5A2E600E5E669 /* UITextView+Placeholder */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DC014AD28E5A2E600E5E669 /* XCRemoteSwiftPackageReference "UITextView-Placeholder" */;
+			productName = "UITextView+Placeholder";
+		};
+		3DCECC1D28DFB3F5001B391C /* MBProgressHUD */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DCECC1C28DFB3F5001B391C /* XCRemoteSwiftPackageReference "MBProgressHUD" */;
+			productName = MBProgressHUD;
+		};
+		3DF232B328E6516200A3C5D0 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3DF232B228E6516200A3C5D0 /* XCRemoteSwiftPackageReference "realm-cocoa" */;
+			productName = Realm;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 3DCECBD828DFAA92001B391C /* Project object */;
+}

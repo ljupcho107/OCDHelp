@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "iqkeyboardmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hackiftekhar/IQKeyboardManager",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7399efb730eea084571b45a1a9b36a3a3c54c44f"
+      }
+    },
+    {
+      "identity" : "mbprogresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jdg/MBProgressHUD",
+      "state" : {
+        "revision" : "bca42b801100b2b3a4eda0ba8dd33d858c780b0d",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "onesignal-xcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-XCFramework",
+      "state" : {
+        "revision" : "d20647de3d23cb1d19ad86b9dd23c530332091b1",
+        "version" : "3.11.3"
+      }
+    },
+    {
+      "identity" : "openssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL",
+      "state" : {
+        "revision" : "9429bf89fe0df2d2f25f3a9a51cbf7092e69640f",
+        "version" : "1.1.1700"
+      }
+    },
+    {
+      "identity" : "realm-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-cocoa",
+      "state" : {
+        "revision" : "437fd367c4fcdaf7c532f1f40cb4ed5fab804e7c",
+        "version" : "10.30.0"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core",
+      "state" : {
+        "revision" : "18abbb4e9dc268620fa499923a92921bf26db8c6",
+        "version" : "12.7.0"
+      }
+    },
+    {
+      "identity" : "swifterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwifterSwift/SwifterSwift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8ff36b66879c8d5eadfd54d2e33dafd62df6612b"
+      }
+    },
+    {
+      "identity" : "uitextview-placeholder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devxoul/UITextView-Placeholder",
+      "state" : {
+        "revision" : "5a133b7efc4e8dd9de91c9eada48270d90c83ef0",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
